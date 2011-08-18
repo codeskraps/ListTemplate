@@ -1,0 +1,52 @@
+= GMIT - Energy App
+
+* <b>Homepage:</b>
+* <b>Git:</b> https://github.com/heepie/ListTemplate
+* <b>Author:</b> Carles Sentis  
+* <b>License:</b> GPL v3
+
+== General Infromation
+
+This is a template app for Android showing the use of listActivity using a custom BaseAdapter
+
+== Authors
+
+Carles Sentis carlesentis@gmail.com
+
+
+== Thanks
+
+
+== ChangeLog
+
+
+== News
+
+
+== Install
+
+
+== Copyright/License
+
+<tt>List Template Copyright (C) Carles Sentis 2011 carlesentis@gmail.com</tt>
+
+<tt>List Template is free software: you can
+redistribute it and/or modify it under the terms
+of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of
+the License, or (at your option) any later
+version.</tt>
+
+<tt>List Template is distributed in the hope that it
+will be useful, but WITHOUT ANY WARRANTY; without
+even the implied warranty of MERCHANTABILITY or
+FITNESS FOR A PARTICULAR PURPOSE. See the GNU
+General Public License for more details.</tt>
+
+<tt>You should have received a copy of the GNU
+General Public License along with this program.
+If not, see http://www.gnu.org/licenses.</tt>
+
+
+== Bugs
+
